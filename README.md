@@ -1,2 +1,2 @@
 # ajmint
-New Website fro AJM Interational Academy
+New Website for AJM Interational Academy
